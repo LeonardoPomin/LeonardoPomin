@@ -17,7 +17,7 @@
 - 🖥 &nbsp; Aws Cloud | Google Cloud | Azure Cloud 
 - 🌐 &nbsp; Python | Power BI | Scrum
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle SQL | MongoDB | SQLite 
-- :wrench: &nbsp; Linux | Git | Apache | Nginx | Pipeline CI/CD 
+- :wrench: &nbsp; Linux | Windows Server | Git | Apache | Nginx | Pipeline CI/CD
 
 </br>
 

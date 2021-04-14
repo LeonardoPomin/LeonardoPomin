@@ -10,7 +10,7 @@
 - :thinking: &nbsp; Exploring new technologies and developing quick solutions for applications.
 - :mortar_board: &nbsp; Future Computer Engineer.
 - :seedling: &nbsp; I am familiar with scrum and remote environments, where I developed great communication skills and learned the importance of documentation.
-- :briefcase: &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/leonardo-souza-pomin-56651ab3/%22%3E">LinkedIn</a>.
+- :briefcase: &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/leonardo-souza-pomin-56651ab3/">LinkedIn</a>.
 
 <h3>:tools: Technologies and skills:</h3>
 

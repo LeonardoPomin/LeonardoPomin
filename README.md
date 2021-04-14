@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 About me: </h3>
 
-- 🌱 I’m currently learning Cloud and Programation
-- 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me leonardo.pomin@hotmail.com
+- 🌱 &nbsp; I’m currently learning Cloud and Programation
+- 💞️ &nbsp; I’m looking to collaborate on DevOps
+- 📫 &nbsp; How to reach me leonardo.pomin@hotmail.com
 - :thinking: &nbsp; Exploring new technologies and developing quick solutions for applications.
 - :mortar_board: &nbsp; Future Computer Engineer.
 - :seedling: &nbsp; I am familiar with scrum and remote environments, where I developed great communication skills and learned the importance of documentation.

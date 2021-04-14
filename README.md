@@ -2,7 +2,7 @@
  I'm a Suport Analyst based in São Paulo, Brazil.
 </h2>
 
-<h3> :man_technologist_tone1: About me: </h3>
+<h3> 👨🏻‍💻 About me: </h3>
 
 - 🌱 I’m currently learning Cloud and Programation
 - 💞️ I’m looking to collaborate on DevOps
@@ -12,7 +12,7 @@
 - :seedling: &nbsp; I am familiar with scrum and remote environments, where I developed great communication skills and learned the importance of documentation.
 - :briefcase: &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/leonardo-souza-pomin-56651ab3/">LinkedIn</a>.
 
-<h3>:tools: Technologies and skills:</h3>
+<h3>🛠 Technologies and skills:</h3>
 
 - 🖥 &nbsp; Aws Cloud | Google Cloud | Azure Cloud 
 - 🌐 &nbsp; Python | Power BI | Scrum

@@ -15,8 +15,8 @@
 <h3>:tools: Technologies and skills:</h3>
 
 🖥 &nbsp; Aws Cloud | Google Cloud | Azure Cloud 
-🌐 &nbsp; Python | Power BI | Scrum
-🛢 &nbsp; MySQL | PostgreSQL | Oracle SQL | MongoDB | SQLite 
+- 🌐 &nbsp; Python | Power BI | Scrum
+- 🛢 &nbsp; MySQL | PostgreSQL | Oracle SQL | MongoDB | SQLite 
 - :wrench: &nbsp; Linux | Git | Apache | Nginx | Pipeline CI/CD 
 
 </br>
